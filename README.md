@@ -11,6 +11,15 @@ Open Comments is a browser extension + web platform that lets you discuss any UR
 ## Website
 
 - https://open-comments.com
+
+- <p align="center">
+  <a href="https://open-comments.com/">
+    <img src="https://open-comments.com/web/icons/icon128.png" alt="Open Comments logo" width="96" height="96">
+  </a>
+</p>
+
+# Open Comments — Comment Anywhere
+
 ## How it works
 
 1. Install the extension.
