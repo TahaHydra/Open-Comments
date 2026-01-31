@@ -10,8 +10,7 @@ Open Comments is a browser extension + web platform that lets you discuss any UR
 
 ## Website
 
-- https://open-comments.com/extension
-
+- https://open-comments.com
 ## How it works
 
 1. Install the extension.
