@@ -11,7 +11,7 @@ Open Comments is a browser extension + web platform that lets you discuss any UR
 ## Website
 <p align="center">
   <a href="https://open-comments.com/">
-    <img src="https://open-comments.com/web/icons/icon128.png" alt="Open Comments logo" width="160">
+    <img src="https://open-comments.com/web/icons/icon128.png" alt="Open Comments logo" width="200">
   </a>
 </p>
 
