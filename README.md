@@ -9,16 +9,25 @@ Open Comments is a browser extension + web platform that lets you discuss any UR
 - Firefox: (coming soon)
 
 ## Website
-
-- https://open-comments.com
-
-- <p align="center">
+<p align="center">
   <a href="https://open-comments.com/">
     <img src="https://open-comments.com/web/icons/icon128.png" alt="Open Comments logo" width="96" height="96">
   </a>
 </p>
 
 # Open Comments — Comment Anywhere
+
+Open Comments is a browser extension + web platform that lets you discuss any URL (YouTube videos, articles, product pages) in an independent comment section — even when the original comments are disabled or heavily moderated.
+
+## Website
+
+- https://open-comments.com
+
+## Install
+
+- Chrome: https://chromewebstore.google.com/detail/open-comments/ighhllohienmohfiameppfpmpkfcibhc
+- Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/open-comments/fcohhdbonfjpalphclieedeacbajnone
+- Firefox: (coming soon)
 
 ## How it works
 
