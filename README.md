@@ -6,7 +6,7 @@ Open Comments is a browser extension + web platform that lets you discuss any UR
 
 - Chrome: https://chromewebstore.google.com/detail/open-comments/ighhllohienmohfiameppfpmpkfcibhc
 - Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/open-comments/fcohhdbonfjpalphclieedeacbajnone
-- Firefox: (coming soon)
+- Firefox: [ (coming soon)](https://addons.mozilla.org/en-GB/firefox/addon/open-comments/)
 
 ## Website
 <p align="center">
